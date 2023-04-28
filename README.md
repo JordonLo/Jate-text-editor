@@ -30,4 +30,4 @@
   3. Go to http://localhost:3000 in browser
   
   ## Questions
-  If you have any questions about the repo, open an issue or contact me directly at J.lor99@yahoo.com. You can find more of my work at github/JordonLo
+  If you have any questions about the repo, open an issue or contact me directly at J.lor99@yahoo.com. You can find more of my work at github/JordonLo![Screenshot 2023-04-27 184014](https://user-images.githubusercontent.com/113495052/235034803-7600a8fc-2325-4566-ae9f-ee6a0717d802.png)
